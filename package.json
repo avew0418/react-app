@@ -2,6 +2,7 @@
   "name": "2025-react-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://avew0418.github.io/react-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
