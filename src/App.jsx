@@ -48,9 +48,9 @@ function App() {
       {/* 第三個元件：計算機 */}
       <h2>第三個元件:計算機</h2>
       <MyCalculator /> {/* 計算機功能 */}
-      {/* 第四個元件：井字遊戲（目前註解掉，未顯示） */}
+      {/* 第四個元件：井字遊戲 */}
       <h2>第四個元件:井字遊戲</h2>
-      {/* <TicTacToe /> */}
+      <TicTacToe /> {/* 井字遊戲元件，讓使用者可以玩井字棋 */}
       {/* 一個按鈕，點擊會讓 count +1 */}
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
